@@ -23,5 +23,9 @@ describe('sumOfOthers', () => {
     assert.equal(JSON.stringify(count), JSON.stringify([4218,4551,4662,4107,3996,4884,4773,4440,4329]));
   });
 
+  it('5', () => {
+    const count = sumOfOther([]);
+    assert.equal(JSON.stringify(count),JSON.stringify([]));
+  });
 });
 
