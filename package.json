@@ -1,0 +1,18 @@
+{
+  "name": "sumofother",
+  "version": "1.0.0",
+  "description": "SumOfOther",
+  "main": "src/sumofother.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/garnich/rsschool-codejam/tree/codejam-3/sumOfOther"
+  },
+  "keywords": [
+    "codejam"
+  ],
+  "author": "Garnich <garnich@tut.by>",
+  "license": "ISC"
+}
